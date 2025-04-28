@@ -3,3 +3,4 @@
 ## FarCry 5
 Download Link: [here](https://github.com/victorious47/Game-Fixes/releases/download/file/FarCry5-Fix.rar)
 ## FarCry New Dawn
+Download Link: [here](https://github.com/victorious47/Game-Fixes/releases/download/file2/Far.cry.New.Dawn.Fix.rar)
