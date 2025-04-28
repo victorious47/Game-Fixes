@@ -1,3 +1,4 @@
-# Game-Fixes
-Fixes for game which dont work with steamtools
-https://discord.gg/piracylords
+# FarCry Game-Fixes
+## FarCry 6
+## FarCry 5
+## FarCry New Dawn
