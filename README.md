@@ -10,3 +10,5 @@ Download Link: [here](https://github.com/victorious47/Game-Fixes/releases/downlo
 Download link: [here](https://github.com/victorious47/Game-Fixes/releases/download/file3/Assassins.Creed.Syndicate.fix.rar)
 ## FarCry Primal
 Download Link: [here](https://github.com/victorious47/Game-Fixes/releases/download/files5/primal.rar)
+## FarCry 3
+Download Link: [here]
