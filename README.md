@@ -1,5 +1,5 @@
 # :unlock: Game-Fixes
-:pencil2:  *Passcode for all files is "40147"*
+:pencil2:  *Passcode for all files is "40147" Replace these files with the files in game directory*
 ## FarCry 6
 Download Link: [here](https://github.com/victorious47/Game-Fixes/releases/download/files4/FAR.CRY.6.FIX.rar)
 ## FarCry 5
